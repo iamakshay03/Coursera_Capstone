@@ -21,6 +21,4 @@ import pandas as pd
 
 # In[ ]:
 
-
-
-
+print("Hello Capstone Project")
